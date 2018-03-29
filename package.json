@@ -1,0 +1,15 @@
+{
+  "name": "modelfoka",
+  "version": "1.0.0",
+  "description": "Catalog magic?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mbr4nt",
+  "license": "ISC",
+  "dependencies": {
+    "interpolate": "^0.1.0",
+    "sif-scanner": "^1.1.1"
+  }
+}

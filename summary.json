@@ -1,0 +1,4241 @@
+{
+    "name": "Flux Desk 1",
+    "description": "Flux desks",
+    "icon": "/cocolin.png",
+    "format": "FL{Finish Type}{Depth}{Width}{Desk Type}{Wire Channel}{Flush Modesty}",
+    "propTypes": {
+        "Desk Type": "text",
+        "Wire Channel": "bool",
+        "Flush Modesty": "bool",
+        "Depth": "number",
+        "Width": "number",
+        "Finish Type": "text"
+    },
+    "count": 384,
+    "products": [
+        {
+            "basemodel": "FLT3660BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284BD",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3660BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284BDST",
+            "props": {
+                "Desk Type": "Bow Front Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684DD",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060DDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060DDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066DDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066DDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072DDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072DDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078DDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078DDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084DDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084DDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684DDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060DDSTF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060DDSTF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066DDSTF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066DDSTF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072DDSTF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072DDSTF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078DDSTF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078DDSTF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084DDSTF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084DDSTF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3660ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284ED",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684EDF",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3660EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284EDST",
+            "props": {
+                "Desk Type": "Double Pedestal Desk (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3660LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284LBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3660LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284LBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684LD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060LDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060LDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066LDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066LDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072LDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072LDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078LDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078LDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084LDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084LDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684LDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060LDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060LDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066LDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066LDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072LDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072LDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078LDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078LDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084LDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084LDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3660LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284LED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684LEDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3660LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284LEDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3660RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284RBD",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3660RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284RBDST",
+            "props": {
+                "Desk Type": "Bow Front Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684RD",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060RDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060RDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066RDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066RDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072RDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072RDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078RDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078RDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084RDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084RDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684RDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060RDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060RDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066RDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066RDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072RDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072RDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3078RDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3078RDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3084RDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3084RDSTF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3660RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284RED",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3060REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3060REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3066REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3066REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3072REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3072REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "30\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684REDF",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "",
+                "Flush Modesty": "Yes",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3660REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3660REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "60\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3666REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3666REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "66\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3672REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3672REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3678REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3678REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT3684REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV3684REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "36\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4272REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4272REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "72\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4278REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4278REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "78\"",
+                "Finish Type": "Veneer"
+            }
+        },
+        {
+            "basemodel": "FLT4284REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Laminate"
+            }
+        },
+        {
+            "basemodel": "FLV4284REDST",
+            "props": {
+                "Desk Type": "Single Pedestal Desk - Right  (w/ 6\" Overhang)",
+                "Wire Channel": "Yes",
+                "Flush Modesty": "",
+                "Depth": "42\"",
+                "Width": "84\"",
+                "Finish Type": "Veneer"
+            }
+        }
+    ]
+}
