@@ -9,7 +9,7 @@ module.exports = {
         
         var self = this;
         
-        sifScanner({path: "./JSL.TOP" }, /^PN\=/, null, filter, done);
+        sifScanner({path: sifUrl }, /^PN\=/, null, filter, done);
  
         function filter(item) {
           return true;
