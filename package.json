@@ -9,6 +9,7 @@
   "author": "mbr4nt",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.6.0",
     "interpolate": "^0.1.0",
     "sif-scanner": "^1.1.1"
   }

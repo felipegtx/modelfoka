@@ -1,27 +1,27 @@
 {
-    "name" : "Flux Desk 1",
-    "description" : "Flux desks",
-    "icon" : "/cocolin.png",
-    "format" : "FL{Finish Type}{Depth}{Width}{Desk Type}{Wire Channel}{Flush Modesty}",
-    "options": { 
-      "Desk Type" : {
-        "BD" : "Bow Front Double Pedestal Desk",
-        "DD" : "Double Pedestal Desk",
-        "ED" : "Double Pedestal Desk (w/ 6\" Overhang)",
-        "LBD" : "Bow Front Single Pedestal Desk - Left",
-        "LD" : "Single Pedestal Desk - Left",
-        "LED" : "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
-        "RBD" : "Bow Front Single Pedestal Desk - Right",
-        "RD" : "Single Pedestal Desk - Right",
-        "RED" : "Single Pedestal Desk - Right  (w/ 6\" Overhang)"
-      },
-      "Wire Channel": "ST",
-      "Flush Modesty": "F",
-      "Depth": [30,36,42],
-      "Width": [60,66,72,78,84],
-      "Finish Type": {
-          "T" : "Laminate",
-          "V" : "Veneer"
-      }
+  "name" : "Flux Desk 1",
+  "description" : "Flux desks",
+  "icon" : "/cocolin.png",
+  "format" : "FL{Finish Type}{Depth}{Width}{Desk Type}{Wire Channel}{Flush Modesty}",
+  "options": { 
+    "Desk Type" : {
+      "BD" : "Bow Front Double Pedestal Desk",
+      "DD" : "Double Pedestal Desk",
+      "ED" : "Double Pedestal Desk (w/ 6\" Overhang)",
+      "LBD" : "Bow Front Single Pedestal Desk - Left",
+      "LD" : "Single Pedestal Desk - Left",
+      "LED" : "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
+      "RBD" : "Bow Front Single Pedestal Desk - Right",
+      "RD" : "Single Pedestal Desk - Right",
+      "RED" : "Single Pedestal Desk - Right  (w/ 6\" Overhang)"
+    },
+    "Wire Channel": "ST",
+    "Flush Modesty": "F",
+    "Depth": [30,36,42],
+    "Width": [60,66,72,78,84],
+    "Finish Type": {
+        "T" : "Laminate",
+        "V" : "Veneer"
     }
   }
+}

@@ -60,5 +60,6 @@ typings/
 # next.js build output
 .next
 
-# test file i genetate
+# test files i genetate
 summary.json
+output/*

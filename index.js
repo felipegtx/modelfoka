@@ -1,6 +1,7 @@
 const sifScanner = require("sif-scanner");
 const fs = require('fs');
 const interpolate = require("interpolate");
+const domains = require("./domains.js");
 
 
 module.exports = {
@@ -50,7 +51,7 @@ module.exports = {
             }
         });
         
-        return {
+        var data = {
             name: definition.name,
             description:definition.description,
             icon: definition.icon,
@@ -59,7 +60,25 @@ module.exports = {
             count: checked.length,
             products: checked
         };
+        
+        data = domains(data);
+        replicateSuperModelInfo(data);
+
+        return data;
     }
+}
+
+function replicateSuperModelInfo(data) {
+    data.products.forEach(product => {
+        product.supermodel = {
+            name: data.name,
+            description: data.description,
+            icon: data.icon,
+            format: data.format,
+            propTypes: data.propTypes,
+            count: data.count,
+        };
+    });
 }
 
 function expandDefinition(definition) {
@@ -78,20 +97,21 @@ function makeMatrix(definition) {
 }
 
 function makeMatrixRow(option, optionKey, definition) {
-    let row = [{
-        name: optionKey,
-        key: "",
-        text: ""
-    }];
+    let row = [];
     
     //numbers
     if(Array.isArray(option)) {
         definition.propTypes[optionKey] = "number";
+        row.push({
+            name: optionKey,
+            key: "",
+            text: null
+        });
         option.forEach(function(option) {
            row.push({
               name: optionKey,
               key: option.toString(),
-              text: option.toString() + '"'
+              text: option
            });
         });
     }
@@ -101,14 +121,24 @@ function makeMatrixRow(option, optionKey, definition) {
         definition.propTypes[optionKey] = "bool";
         row.push({
             name: optionKey,
+            key: "",
+            text: false
+        });
+        row.push({
+            name: optionKey,
             key: option.toString(),
-            text: "Yes"
+            text: true
         });
     }
     
     //text
     else if(typeof option === "object") {
         definition.propTypes[optionKey] = "text";
+        row.push({
+            name: optionKey,
+            key: "",
+            text: ""
+        });
         let keys = Object.keys(option);
         keys.forEach(function(key) {
             row.push({
