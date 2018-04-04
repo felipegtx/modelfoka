@@ -83,6 +83,10 @@ function processSupermodel(catalog, group, callback) {
         async.each(files, 
             (file, callback) => {
                 let jsonUrl = groupFolder + "/" + file;
+                if(jsonUrl.toLowerCase().indexOf(".json") == -1) {
+                    callback();
+                    return;
+                }
                     
                 
                 var summary = modelfoka.disect(jsonUrl); 
