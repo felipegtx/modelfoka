@@ -15,6 +15,12 @@ function catalogs(folder, callback) {
         
         async.each(files, 
             (file, callback) => {
+
+                if(file.toLowerCase().indexOf(".") != -1 || file == "__MACOSX") {
+                    callback();
+                    return;
+                }
+                
                 findSifFile(folder + "/" + file, (err, sifFile) => {
                     if(err) console.log(err);                
                     
