@@ -63,3 +63,4 @@ typings/
 # test files i genetate
 summary.json
 output/*
+catalogs/*

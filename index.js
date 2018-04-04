@@ -31,34 +31,43 @@ module.exports = {
         let rawdata = fs.readFileSync(jsonUrl);  
         let definition = JSON.parse(rawdata); 
         definition.propTypes = {};
+        definition.propIndex = Object.keys(definition.options);
         let unchecked = expandDefinition(definition);
         
         let checked = [];
         
         unchecked.forEach(function(possibility) {
-            let basemodel = extractBasemodel(possibility, definition.format);
-            if(self.allModels.includes(basemodel)) {
-                //got a match in the catalog
-                
-                let props = {};
-                possibility.forEach(function(prop) {
-                   props[prop.name] = prop.text;
-                });
-                checked.push({
-                    basemodel: basemodel,
-                    props: props
-                });
-            }
+            let basemodels = extractBasemodels(possibility, definition.format);
+            basemodels.forEach(basemodel => {
+                if(self.allModels.includes(basemodel)) {
+                    //got a match in the catalog
+                    
+                    let props = {};
+                    possibility.forEach(function(prop) {
+                       props[prop.name] = prop.text;
+                    });
+                    checked.push({
+                        basemodel: basemodel,
+                        props: props
+                    });
+                }
+            });
         });
+
+        if(!definition.default && checked.length > 0) {
+            definition.default = checked[0].basemodel;
+            //update json
+            fs.writeFile(jsonUrl, JSON.stringify(definition, null, 4), (err) => {});
+        }
         
         var data = {
             name: definition.name,
             description:definition.description,
-            icon: definition.icon,
             format: definition.format,
             propTypes: definition.propTypes,
             count: checked.length,
-            products: checked
+            products: checked,
+            propIndex: definition.propIndex
         };
         
         data = domains(data);
@@ -73,10 +82,10 @@ function replicateSuperModelInfo(data) {
         product.supermodel = {
             name: data.name,
             description: data.description,
-            icon: data.icon,
             format: data.format,
             propTypes: data.propTypes,
             count: data.count,
+            propIndex: data.propIndex
         };
     });
 }
@@ -169,10 +178,23 @@ function allPossibleCases(arr, previous, result) {
 }
 
 
-function extractBasemodel(possibility, formatStr) {
-    let data = {};
-    possibility.forEach(function(prop) {
-       data[prop.name] = prop.key;
+function extractBasemodels(possibility, formatProp) {
+    let formatStrs = null;
+    let results = [];
+    if(typeof formatProp === "string") {
+        formatStrs = [ formatProp ];
+    } else  {
+        //assume array
+        formatStrs = formatProp;
+    }
+
+    formatStrs.forEach(formatStr => {
+        let data = {};
+        possibility.forEach(function(prop) {
+           data[prop.name] = prop.key;
+        });
+        results.push(interpolate(formatStr, data));
+
     });
-    return interpolate(formatStr, data);
+    return results;
 }
