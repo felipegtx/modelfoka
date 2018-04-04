@@ -61,6 +61,12 @@ function groups(catalog, callback) {
         
         async.each(files, 
             (file, callback) => {
+
+                if(file.toLowerCase().indexOf(".") != -1) {
+                    callback();
+                    return;
+                }
+
                 processSupermodel(catalog, file, (err, supermodelData) => {
                     if(err) console.log(err);                
                     
