@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.6.0",
+    "csvtojson": "^1.1.9",
     "interpolate": "^0.1.0",
     "sif-scanner": "^1.1.1"
   }

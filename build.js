@@ -6,6 +6,10 @@ module.exports = function(root, callback) {
     catalogs(root, callback);
 };
 
+
+const csv=require('csvtojson');
+
+
 /* welcome to callback hell */
 
 function catalogs(folder, callback) {
@@ -20,22 +24,34 @@ function catalogs(folder, callback) {
                     callback();
                     return;
                 }
-                
-                findSifFile(folder + "/" + file, (err, sifFile) => {
-                    if(err) console.log(err);                
-                    
-                    data.push({
-                        name: file,
-                        catalogFolder: folder + "/" + file,
-                        basemodelsFolder: folder + "/" + file + "/basemodels",
-                        supermodelsFolder: folder + "/" + file + "/supermodels",
-                        sifFileUrl: sifFile
-                    });
-                    //TODO: will need multiple instances of the modelfoka?
-                    modelfoka.loadSif(sifFile, function(err) {
-                        callback();
+
+                let comparison = {};
+                csv().fromFile(folder + "/" + file + "/json-comparison.csv").on('json',(jsonObj)=>{
+                    if(!comparison[jsonObj.supermodel.toLowerCase()]) {
+                        comparison[jsonObj.supermodel.toLowerCase()] = [];
+                    }
+                    comparison[jsonObj.supermodel.toLowerCase()].push(jsonObj.basemodel.toUpperCase());
+                })
+                .on('done',(error)=>{
+                    findSifFile(folder + "/" + file, (err, sifFile) => {
+                        if(err) console.log(err);                
+                        
+                        data.push({
+                            name: file,
+                            catalogFolder: folder + "/" + file,
+                            basemodelsFolder: folder + "/" + file + "/basemodels",
+                            supermodelsFolder: folder + "/" + file + "/supermodels",
+                            sifFileUrl: sifFile,
+                            comparison: comparison
+                        });
+                        //TODO: will need multiple instances of the modelfoka?
+                        modelfoka.loadSif(sifFile, function(err) {
+                            callback();
+                        });
                     });
                 });
+
+                
             },
             (err) => {
                 if(err) console.log(err);                
@@ -106,7 +122,25 @@ function processSupermodel(catalog, group, callback) {
                     callback();
                     return;
                 }
-                console.log("Building " + summary.name + " found " + summary.products.length  + " products");
+
+
+                let expectedCount = 0;
+                let key = supermodelFromFileName(file);
+                let expected = catalog.comparison[key.toLowerCase()];
+                if(expected)
+                    expectedCount = expected.length;
+                let found = [];
+                summary.products.forEach(product => {
+                    found.push(product.basemodel);
+                });
+                console.log("****************");
+                console.log(key);
+                console.log("found: " + summary.products.length);
+                console.log("expected: " + expectedCount);
+                console.log("diference: " + (summary.products.length - expectedCount));
+                console.log("extra: " + extra(expected, found));
+                console.log("missing: " + missing(expected, found));
+
                 if(summary.products.length == 0) {
                     console.log(":/ no products found for " + summary.name + "!!!!!!!!!!!!!");
                 }
@@ -128,6 +162,28 @@ function processSupermodel(catalog, group, callback) {
     });
 }
 
+function supermodelFromFileName(filename) {
+    return filename.replace(".json", "").replace("JSON", "");
+}
+
+function missing(expected, found) {
+    if(!expected) return null;
+    let missing = [];
+    expected.forEach(one => {
+        if(!found.includes(one)) missing.push(one);
+    });
+    return missing;
+}
+
+function extra(expected, found) {
+    if(!expected) return null;
+    
+    let extra = [];
+    found.forEach(one => {
+        if(!expected.includes(one)) extra.push(one);
+    });
+    return extra;
+}
 
 function findSifFile(folder, callback) {
     
