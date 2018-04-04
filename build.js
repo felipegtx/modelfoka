@@ -62,7 +62,7 @@ function groups(catalog, callback) {
         async.each(files, 
             (file, callback) => {
 
-                if(file.toLowerCase().indexOf(".") != -1) {
+                if(file.toLowerCase().indexOf(".") != -1 || file == "__MACOSX") {
                     callback();
                     return;
                 }
@@ -96,7 +96,11 @@ function processSupermodel(catalog, group, callback) {
                     
                 
                 var summary = modelfoka.disect(jsonUrl); 
-                console.log("Building " + summary.name);
+                if(!summary)  {
+                    callback();
+                    return;
+                }
+                console.log("Building " + summary.name + " found " + summary.products.length  + " products");
                 if(summary.products.length == 0) {
                     console.log(":/ no products found for " + summary.name + "!!!!!!!!!!!!!");
                 }

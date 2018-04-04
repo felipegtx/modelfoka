@@ -29,7 +29,14 @@ module.exports = {
         let self = this;
         
         let rawdata = fs.readFileSync(jsonUrl);  
-        let definition = JSON.parse(rawdata); 
+        let definition = {};
+        try {
+            definition = JSON.parse(rawdata);
+        }
+        catch(e) {
+            console.log("Pau no geison ", jsonUrl);
+            return null;
+        }
         definition.propTypes = {};
         definition.propIndex = Object.keys(definition.options);
         let unchecked = expandDefinition(definition);
