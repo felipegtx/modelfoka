@@ -1,0 +1,385 @@
+basemodel,Desk Type,Wire Channel,Flush Modesty,Depth,Width,Finish Type
+FLT3660BD,Bow Front Double Pedestal Desk,false,false,36,60,Laminate
+FLV3660BD,Bow Front Double Pedestal Desk,false,false,36,60,Veneer
+FLT3666BD,Bow Front Double Pedestal Desk,false,false,36,66,Laminate
+FLV3666BD,Bow Front Double Pedestal Desk,false,false,36,66,Veneer
+FLT3672BD,Bow Front Double Pedestal Desk,false,false,36,72,Laminate
+FLV3672BD,Bow Front Double Pedestal Desk,false,false,36,72,Veneer
+FLT3678BD,Bow Front Double Pedestal Desk,false,false,36,78,Laminate
+FLV3678BD,Bow Front Double Pedestal Desk,false,false,36,78,Veneer
+FLT3684BD,Bow Front Double Pedestal Desk,false,false,36,84,Laminate
+FLV3684BD,Bow Front Double Pedestal Desk,false,false,36,84,Veneer
+FLT4272BD,Bow Front Double Pedestal Desk,false,false,42,72,Laminate
+FLV4272BD,Bow Front Double Pedestal Desk,false,false,42,72,Veneer
+FLT4278BD,Bow Front Double Pedestal Desk,false,false,42,78,Laminate
+FLV4278BD,Bow Front Double Pedestal Desk,false,false,42,78,Veneer
+FLT4284BD,Bow Front Double Pedestal Desk,false,false,42,84,Laminate
+FLV4284BD,Bow Front Double Pedestal Desk,false,false,42,84,Veneer
+FLT3660BDST,Bow Front Double Pedestal Desk,true,false,36,60,Laminate
+FLV3660BDST,Bow Front Double Pedestal Desk,true,false,36,60,Veneer
+FLT3666BDST,Bow Front Double Pedestal Desk,true,false,36,66,Laminate
+FLV3666BDST,Bow Front Double Pedestal Desk,true,false,36,66,Veneer
+FLT3672BDST,Bow Front Double Pedestal Desk,true,false,36,72,Laminate
+FLV3672BDST,Bow Front Double Pedestal Desk,true,false,36,72,Veneer
+FLT3678BDST,Bow Front Double Pedestal Desk,true,false,36,78,Laminate
+FLV3678BDST,Bow Front Double Pedestal Desk,true,false,36,78,Veneer
+FLT3684BDST,Bow Front Double Pedestal Desk,true,false,36,84,Laminate
+FLV3684BDST,Bow Front Double Pedestal Desk,true,false,36,84,Veneer
+FLT4272BDST,Bow Front Double Pedestal Desk,true,false,42,72,Laminate
+FLV4272BDST,Bow Front Double Pedestal Desk,true,false,42,72,Veneer
+FLT4278BDST,Bow Front Double Pedestal Desk,true,false,42,78,Laminate
+FLV4278BDST,Bow Front Double Pedestal Desk,true,false,42,78,Veneer
+FLT4284BDST,Bow Front Double Pedestal Desk,true,false,42,84,Laminate
+FLV4284BDST,Bow Front Double Pedestal Desk,true,false,42,84,Veneer
+FLT3060DD,Double Pedestal Desk,false,false,30,60,Laminate
+FLV3060DD,Double Pedestal Desk,false,false,30,60,Veneer
+FLT3066DD,Double Pedestal Desk,false,false,30,66,Laminate
+FLV3066DD,Double Pedestal Desk,false,false,30,66,Veneer
+FLT3072DD,Double Pedestal Desk,false,false,30,72,Laminate
+FLV3072DD,Double Pedestal Desk,false,false,30,72,Veneer
+FLT3078DD,Double Pedestal Desk,false,false,30,78,Laminate
+FLV3078DD,Double Pedestal Desk,false,false,30,78,Veneer
+FLT3084DD,Double Pedestal Desk,false,false,30,84,Laminate
+FLV3084DD,Double Pedestal Desk,false,false,30,84,Veneer
+FLT3672DD,Double Pedestal Desk,false,false,36,72,Laminate
+FLV3672DD,Double Pedestal Desk,false,false,36,72,Veneer
+FLT3678DD,Double Pedestal Desk,false,false,36,78,Laminate
+FLV3678DD,Double Pedestal Desk,false,false,36,78,Veneer
+FLT3684DD,Double Pedestal Desk,false,false,36,84,Laminate
+FLV3684DD,Double Pedestal Desk,false,false,36,84,Veneer
+FLT3060DDF,Double Pedestal Desk,false,true,30,60,Laminate
+FLV3060DDF,Double Pedestal Desk,false,true,30,60,Veneer
+FLT3066DDF,Double Pedestal Desk,false,true,30,66,Laminate
+FLV3066DDF,Double Pedestal Desk,false,true,30,66,Veneer
+FLT3072DDF,Double Pedestal Desk,false,true,30,72,Laminate
+FLV3072DDF,Double Pedestal Desk,false,true,30,72,Veneer
+FLT3078DDF,Double Pedestal Desk,false,true,30,78,Laminate
+FLV3078DDF,Double Pedestal Desk,false,true,30,78,Veneer
+FLT3084DDF,Double Pedestal Desk,false,true,30,84,Laminate
+FLV3084DDF,Double Pedestal Desk,false,true,30,84,Veneer
+FLT3060DDST,Double Pedestal Desk,true,false,30,60,Laminate
+FLV3060DDST,Double Pedestal Desk,true,false,30,60,Veneer
+FLT3066DDST,Double Pedestal Desk,true,false,30,66,Laminate
+FLV3066DDST,Double Pedestal Desk,true,false,30,66,Veneer
+FLT3072DDST,Double Pedestal Desk,true,false,30,72,Laminate
+FLV3072DDST,Double Pedestal Desk,true,false,30,72,Veneer
+FLT3078DDST,Double Pedestal Desk,true,false,30,78,Laminate
+FLV3078DDST,Double Pedestal Desk,true,false,30,78,Veneer
+FLT3084DDST,Double Pedestal Desk,true,false,30,84,Laminate
+FLV3084DDST,Double Pedestal Desk,true,false,30,84,Veneer
+FLT3672DDST,Double Pedestal Desk,true,false,36,72,Laminate
+FLV3672DDST,Double Pedestal Desk,true,false,36,72,Veneer
+FLT3678DDST,Double Pedestal Desk,true,false,36,78,Laminate
+FLV3678DDST,Double Pedestal Desk,true,false,36,78,Veneer
+FLT3684DDST,Double Pedestal Desk,true,false,36,84,Laminate
+FLV3684DDST,Double Pedestal Desk,true,false,36,84,Veneer
+FLT3060DDSTF,Double Pedestal Desk,true,true,30,60,Laminate
+FLV3060DDSTF,Double Pedestal Desk,true,true,30,60,Veneer
+FLT3066DDSTF,Double Pedestal Desk,true,true,30,66,Laminate
+FLV3066DDSTF,Double Pedestal Desk,true,true,30,66,Veneer
+FLT3072DDSTF,Double Pedestal Desk,true,true,30,72,Laminate
+FLV3072DDSTF,Double Pedestal Desk,true,true,30,72,Veneer
+FLT3078DDSTF,Double Pedestal Desk,true,true,30,78,Laminate
+FLV3078DDSTF,Double Pedestal Desk,true,true,30,78,Veneer
+FLT3084DDSTF,Double Pedestal Desk,true,true,30,84,Laminate
+FLV3084DDSTF,Double Pedestal Desk,true,true,30,84,Veneer
+FLT3660ED,Double Pedestal Desk (w/ 6" Overhang),false,false,36,60,Laminate
+FLV3660ED,Double Pedestal Desk (w/ 6" Overhang),false,false,36,60,Veneer
+FLT3666ED,Double Pedestal Desk (w/ 6" Overhang),false,false,36,66,Laminate
+FLV3666ED,Double Pedestal Desk (w/ 6" Overhang),false,false,36,66,Veneer
+FLT3672ED,Double Pedestal Desk (w/ 6" Overhang),false,false,36,72,Laminate
+FLV3672ED,Double Pedestal Desk (w/ 6" Overhang),false,false,36,72,Veneer
+FLT3678ED,Double Pedestal Desk (w/ 6" Overhang),false,false,36,78,Laminate
+FLV3678ED,Double Pedestal Desk (w/ 6" Overhang),false,false,36,78,Veneer
+FLT3684ED,Double Pedestal Desk (w/ 6" Overhang),false,false,36,84,Laminate
+FLV3684ED,Double Pedestal Desk (w/ 6" Overhang),false,false,36,84,Veneer
+FLT4272ED,Double Pedestal Desk (w/ 6" Overhang),false,false,42,72,Laminate
+FLV4272ED,Double Pedestal Desk (w/ 6" Overhang),false,false,42,72,Veneer
+FLT4278ED,Double Pedestal Desk (w/ 6" Overhang),false,false,42,78,Laminate
+FLV4278ED,Double Pedestal Desk (w/ 6" Overhang),false,false,42,78,Veneer
+FLT4284ED,Double Pedestal Desk (w/ 6" Overhang),false,false,42,84,Laminate
+FLV4284ED,Double Pedestal Desk (w/ 6" Overhang),false,false,42,84,Veneer
+FLT3060EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,30,60,Laminate
+FLV3060EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,30,60,Veneer
+FLT3066EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,30,66,Laminate
+FLV3066EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,30,66,Veneer
+FLT3072EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,30,72,Laminate
+FLV3072EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,30,72,Veneer
+FLT3672EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,36,72,Laminate
+FLV3672EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,36,72,Veneer
+FLT3678EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,36,78,Laminate
+FLV3678EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,36,78,Veneer
+FLT3684EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,36,84,Laminate
+FLV3684EDF,Double Pedestal Desk (w/ 6" Overhang),false,true,36,84,Veneer
+FLT3660EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,36,60,Laminate
+FLV3660EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,36,60,Veneer
+FLT3666EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,36,66,Laminate
+FLV3666EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,36,66,Veneer
+FLT3672EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,36,72,Laminate
+FLV3672EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,36,72,Veneer
+FLT3678EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,36,78,Laminate
+FLV3678EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,36,78,Veneer
+FLT3684EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,36,84,Laminate
+FLV3684EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,36,84,Veneer
+FLT4272EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,42,72,Laminate
+FLV4272EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,42,72,Veneer
+FLT4278EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,42,78,Laminate
+FLV4278EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,42,78,Veneer
+FLT4284EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,42,84,Laminate
+FLV4284EDST,Double Pedestal Desk (w/ 6" Overhang),true,false,42,84,Veneer
+FLT3660LBD,Bow Front Single Pedestal Desk - Left,false,false,36,60,Laminate
+FLV3660LBD,Bow Front Single Pedestal Desk - Left,false,false,36,60,Veneer
+FLT3666LBD,Bow Front Single Pedestal Desk - Left,false,false,36,66,Laminate
+FLV3666LBD,Bow Front Single Pedestal Desk - Left,false,false,36,66,Veneer
+FLT3672LBD,Bow Front Single Pedestal Desk - Left,false,false,36,72,Laminate
+FLV3672LBD,Bow Front Single Pedestal Desk - Left,false,false,36,72,Veneer
+FLT3678LBD,Bow Front Single Pedestal Desk - Left,false,false,36,78,Laminate
+FLV3678LBD,Bow Front Single Pedestal Desk - Left,false,false,36,78,Veneer
+FLT3684LBD,Bow Front Single Pedestal Desk - Left,false,false,36,84,Laminate
+FLV3684LBD,Bow Front Single Pedestal Desk - Left,false,false,36,84,Veneer
+FLT4272LBD,Bow Front Single Pedestal Desk - Left,false,false,42,72,Laminate
+FLV4272LBD,Bow Front Single Pedestal Desk - Left,false,false,42,72,Veneer
+FLT4278LBD,Bow Front Single Pedestal Desk - Left,false,false,42,78,Laminate
+FLV4278LBD,Bow Front Single Pedestal Desk - Left,false,false,42,78,Veneer
+FLT4284LBD,Bow Front Single Pedestal Desk - Left,false,false,42,84,Laminate
+FLV4284LBD,Bow Front Single Pedestal Desk - Left,false,false,42,84,Veneer
+FLT3660LBDST,Bow Front Single Pedestal Desk - Left,true,false,36,60,Laminate
+FLV3660LBDST,Bow Front Single Pedestal Desk - Left,true,false,36,60,Veneer
+FLT3666LBDST,Bow Front Single Pedestal Desk - Left,true,false,36,66,Laminate
+FLV3666LBDST,Bow Front Single Pedestal Desk - Left,true,false,36,66,Veneer
+FLT3672LBDST,Bow Front Single Pedestal Desk - Left,true,false,36,72,Laminate
+FLV3672LBDST,Bow Front Single Pedestal Desk - Left,true,false,36,72,Veneer
+FLT3678LBDST,Bow Front Single Pedestal Desk - Left,true,false,36,78,Laminate
+FLV3678LBDST,Bow Front Single Pedestal Desk - Left,true,false,36,78,Veneer
+FLT3684LBDST,Bow Front Single Pedestal Desk - Left,true,false,36,84,Laminate
+FLV3684LBDST,Bow Front Single Pedestal Desk - Left,true,false,36,84,Veneer
+FLT4272LBDST,Bow Front Single Pedestal Desk - Left,true,false,42,72,Laminate
+FLV4272LBDST,Bow Front Single Pedestal Desk - Left,true,false,42,72,Veneer
+FLT4278LBDST,Bow Front Single Pedestal Desk - Left,true,false,42,78,Laminate
+FLV4278LBDST,Bow Front Single Pedestal Desk - Left,true,false,42,78,Veneer
+FLT4284LBDST,Bow Front Single Pedestal Desk - Left,true,false,42,84,Laminate
+FLV4284LBDST,Bow Front Single Pedestal Desk - Left,true,false,42,84,Veneer
+FLT3060LD,Single Pedestal Desk - Left,false,false,30,60,Laminate
+FLV3060LD,Single Pedestal Desk - Left,false,false,30,60,Veneer
+FLT3066LD,Single Pedestal Desk - Left,false,false,30,66,Laminate
+FLV3066LD,Single Pedestal Desk - Left,false,false,30,66,Veneer
+FLT3072LD,Single Pedestal Desk - Left,false,false,30,72,Laminate
+FLV3072LD,Single Pedestal Desk - Left,false,false,30,72,Veneer
+FLT3078LD,Single Pedestal Desk - Left,false,false,30,78,Laminate
+FLV3078LD,Single Pedestal Desk - Left,false,false,30,78,Veneer
+FLT3084LD,Single Pedestal Desk - Left,false,false,30,84,Laminate
+FLV3084LD,Single Pedestal Desk - Left,false,false,30,84,Veneer
+FLT3672LD,Single Pedestal Desk - Left,false,false,36,72,Laminate
+FLV3672LD,Single Pedestal Desk - Left,false,false,36,72,Veneer
+FLT3678LD,Single Pedestal Desk - Left,false,false,36,78,Laminate
+FLV3678LD,Single Pedestal Desk - Left,false,false,36,78,Veneer
+FLT3684LD,Single Pedestal Desk - Left,false,false,36,84,Laminate
+FLV3684LD,Single Pedestal Desk - Left,false,false,36,84,Veneer
+FLT3060LDF,Single Pedestal Desk - Left,false,true,30,60,Laminate
+FLV3060LDF,Single Pedestal Desk - Left,false,true,30,60,Veneer
+FLT3066LDF,Single Pedestal Desk - Left,false,true,30,66,Laminate
+FLV3066LDF,Single Pedestal Desk - Left,false,true,30,66,Veneer
+FLT3072LDF,Single Pedestal Desk - Left,false,true,30,72,Laminate
+FLV3072LDF,Single Pedestal Desk - Left,false,true,30,72,Veneer
+FLT3078LDF,Single Pedestal Desk - Left,false,true,30,78,Laminate
+FLV3078LDF,Single Pedestal Desk - Left,false,true,30,78,Veneer
+FLT3084LDF,Single Pedestal Desk - Left,false,true,30,84,Laminate
+FLV3084LDF,Single Pedestal Desk - Left,false,true,30,84,Veneer
+FLT3060LDST,Single Pedestal Desk - Left,true,false,30,60,Laminate
+FLV3060LDST,Single Pedestal Desk - Left,true,false,30,60,Veneer
+FLT3066LDST,Single Pedestal Desk - Left,true,false,30,66,Laminate
+FLV3066LDST,Single Pedestal Desk - Left,true,false,30,66,Veneer
+FLT3072LDST,Single Pedestal Desk - Left,true,false,30,72,Laminate
+FLV3072LDST,Single Pedestal Desk - Left,true,false,30,72,Veneer
+FLT3078LDST,Single Pedestal Desk - Left,true,false,30,78,Laminate
+FLV3078LDST,Single Pedestal Desk - Left,true,false,30,78,Veneer
+FLT3084LDST,Single Pedestal Desk - Left,true,false,30,84,Laminate
+FLV3084LDST,Single Pedestal Desk - Left,true,false,30,84,Veneer
+FLT3672LDST,Single Pedestal Desk - Left,true,false,36,72,Laminate
+FLV3672LDST,Single Pedestal Desk - Left,true,false,36,72,Veneer
+FLT3678LDST,Single Pedestal Desk - Left,true,false,36,78,Laminate
+FLV3678LDST,Single Pedestal Desk - Left,true,false,36,78,Veneer
+FLT3684LDST,Single Pedestal Desk - Left,true,false,36,84,Laminate
+FLV3684LDST,Single Pedestal Desk - Left,true,false,36,84,Veneer
+FLT3060LDSTF,Single Pedestal Desk - Left,true,true,30,60,Laminate
+FLV3060LDSTF,Single Pedestal Desk - Left,true,true,30,60,Veneer
+FLT3066LDSTF,Single Pedestal Desk - Left,true,true,30,66,Laminate
+FLV3066LDSTF,Single Pedestal Desk - Left,true,true,30,66,Veneer
+FLT3072LDSTF,Single Pedestal Desk - Left,true,true,30,72,Laminate
+FLV3072LDSTF,Single Pedestal Desk - Left,true,true,30,72,Veneer
+FLT3078LDSTF,Single Pedestal Desk - Left,true,true,30,78,Laminate
+FLV3078LDSTF,Single Pedestal Desk - Left,true,true,30,78,Veneer
+FLT3084LDSTF,Single Pedestal Desk - Left,true,true,30,84,Laminate
+FLV3084LDSTF,Single Pedestal Desk - Left,true,true,30,84,Veneer
+FLT3660LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,36,60,Laminate
+FLV3660LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,36,60,Veneer
+FLT3666LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,36,66,Laminate
+FLV3666LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,36,66,Veneer
+FLT3672LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,36,72,Laminate
+FLV3672LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,36,72,Veneer
+FLT3678LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,36,78,Laminate
+FLV3678LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,36,78,Veneer
+FLT3684LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,36,84,Laminate
+FLV3684LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,36,84,Veneer
+FLT4272LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,42,72,Laminate
+FLV4272LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,42,72,Veneer
+FLT4278LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,42,78,Laminate
+FLV4278LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,42,78,Veneer
+FLT4284LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,42,84,Laminate
+FLV4284LED,Single Pedestal Desk - Left  (w/ 6" Overhang),false,false,42,84,Veneer
+FLT3060LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,30,60,Laminate
+FLV3060LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,30,60,Veneer
+FLT3066LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,30,66,Laminate
+FLV3066LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,30,66,Veneer
+FLT3072LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,30,72,Laminate
+FLV3072LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,30,72,Veneer
+FLT3672LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,36,72,Laminate
+FLV3672LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,36,72,Veneer
+FLT3678LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,36,78,Laminate
+FLV3678LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,36,78,Veneer
+FLT3684LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,36,84,Laminate
+FLV3684LEDF,Single Pedestal Desk - Left  (w/ 6" Overhang),false,true,36,84,Veneer
+FLT3660LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,36,60,Laminate
+FLV3660LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,36,60,Veneer
+FLT3666LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,36,66,Laminate
+FLV3666LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,36,66,Veneer
+FLT3672LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,36,72,Laminate
+FLV3672LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,36,72,Veneer
+FLT3678LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,36,78,Laminate
+FLV3678LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,36,78,Veneer
+FLT3684LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,36,84,Laminate
+FLV3684LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,36,84,Veneer
+FLT4272LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,42,72,Laminate
+FLV4272LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,42,72,Veneer
+FLT4278LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,42,78,Laminate
+FLV4278LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,42,78,Veneer
+FLT4284LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,42,84,Laminate
+FLV4284LEDST,Single Pedestal Desk - Left  (w/ 6" Overhang),true,false,42,84,Veneer
+FLT3660RBD,Bow Front Single Pedestal Desk - Right,false,false,36,60,Laminate
+FLV3660RBD,Bow Front Single Pedestal Desk - Right,false,false,36,60,Veneer
+FLT3666RBD,Bow Front Single Pedestal Desk - Right,false,false,36,66,Laminate
+FLV3666RBD,Bow Front Single Pedestal Desk - Right,false,false,36,66,Veneer
+FLT3672RBD,Bow Front Single Pedestal Desk - Right,false,false,36,72,Laminate
+FLV3672RBD,Bow Front Single Pedestal Desk - Right,false,false,36,72,Veneer
+FLT3678RBD,Bow Front Single Pedestal Desk - Right,false,false,36,78,Laminate
+FLV3678RBD,Bow Front Single Pedestal Desk - Right,false,false,36,78,Veneer
+FLT3684RBD,Bow Front Single Pedestal Desk - Right,false,false,36,84,Laminate
+FLV3684RBD,Bow Front Single Pedestal Desk - Right,false,false,36,84,Veneer
+FLT4272RBD,Bow Front Single Pedestal Desk - Right,false,false,42,72,Laminate
+FLV4272RBD,Bow Front Single Pedestal Desk - Right,false,false,42,72,Veneer
+FLT4278RBD,Bow Front Single Pedestal Desk - Right,false,false,42,78,Laminate
+FLV4278RBD,Bow Front Single Pedestal Desk - Right,false,false,42,78,Veneer
+FLT4284RBD,Bow Front Single Pedestal Desk - Right,false,false,42,84,Laminate
+FLV4284RBD,Bow Front Single Pedestal Desk - Right,false,false,42,84,Veneer
+FLT3660RBDST,Bow Front Single Pedestal Desk - Right,true,false,36,60,Laminate
+FLV3660RBDST,Bow Front Single Pedestal Desk - Right,true,false,36,60,Veneer
+FLT3666RBDST,Bow Front Single Pedestal Desk - Right,true,false,36,66,Laminate
+FLV3666RBDST,Bow Front Single Pedestal Desk - Right,true,false,36,66,Veneer
+FLT3672RBDST,Bow Front Single Pedestal Desk - Right,true,false,36,72,Laminate
+FLV3672RBDST,Bow Front Single Pedestal Desk - Right,true,false,36,72,Veneer
+FLT3678RBDST,Bow Front Single Pedestal Desk - Right,true,false,36,78,Laminate
+FLV3678RBDST,Bow Front Single Pedestal Desk - Right,true,false,36,78,Veneer
+FLT3684RBDST,Bow Front Single Pedestal Desk - Right,true,false,36,84,Laminate
+FLV3684RBDST,Bow Front Single Pedestal Desk - Right,true,false,36,84,Veneer
+FLT4272RBDST,Bow Front Single Pedestal Desk - Right,true,false,42,72,Laminate
+FLV4272RBDST,Bow Front Single Pedestal Desk - Right,true,false,42,72,Veneer
+FLT4278RBDST,Bow Front Single Pedestal Desk - Right,true,false,42,78,Laminate
+FLV4278RBDST,Bow Front Single Pedestal Desk - Right,true,false,42,78,Veneer
+FLT4284RBDST,Bow Front Single Pedestal Desk - Right,true,false,42,84,Laminate
+FLV4284RBDST,Bow Front Single Pedestal Desk - Right,true,false,42,84,Veneer
+FLT3060RD,Single Pedestal Desk - Right,false,false,30,60,Laminate
+FLV3060RD,Single Pedestal Desk - Right,false,false,30,60,Veneer
+FLT3066RD,Single Pedestal Desk - Right,false,false,30,66,Laminate
+FLV3066RD,Single Pedestal Desk - Right,false,false,30,66,Veneer
+FLT3072RD,Single Pedestal Desk - Right,false,false,30,72,Laminate
+FLV3072RD,Single Pedestal Desk - Right,false,false,30,72,Veneer
+FLT3078RD,Single Pedestal Desk - Right,false,false,30,78,Laminate
+FLV3078RD,Single Pedestal Desk - Right,false,false,30,78,Veneer
+FLT3084RD,Single Pedestal Desk - Right,false,false,30,84,Laminate
+FLV3084RD,Single Pedestal Desk - Right,false,false,30,84,Veneer
+FLT3672RD,Single Pedestal Desk - Right,false,false,36,72,Laminate
+FLV3672RD,Single Pedestal Desk - Right,false,false,36,72,Veneer
+FLT3678RD,Single Pedestal Desk - Right,false,false,36,78,Laminate
+FLV3678RD,Single Pedestal Desk - Right,false,false,36,78,Veneer
+FLT3684RD,Single Pedestal Desk - Right,false,false,36,84,Laminate
+FLV3684RD,Single Pedestal Desk - Right,false,false,36,84,Veneer
+FLT3060RDF,Single Pedestal Desk - Right,false,true,30,60,Laminate
+FLV3060RDF,Single Pedestal Desk - Right,false,true,30,60,Veneer
+FLT3066RDF,Single Pedestal Desk - Right,false,true,30,66,Laminate
+FLV3066RDF,Single Pedestal Desk - Right,false,true,30,66,Veneer
+FLT3072RDF,Single Pedestal Desk - Right,false,true,30,72,Laminate
+FLV3072RDF,Single Pedestal Desk - Right,false,true,30,72,Veneer
+FLT3078RDF,Single Pedestal Desk - Right,false,true,30,78,Laminate
+FLV3078RDF,Single Pedestal Desk - Right,false,true,30,78,Veneer
+FLT3084RDF,Single Pedestal Desk - Right,false,true,30,84,Laminate
+FLV3084RDF,Single Pedestal Desk - Right,false,true,30,84,Veneer
+FLT3060RDST,Single Pedestal Desk - Right,true,false,30,60,Laminate
+FLV3060RDST,Single Pedestal Desk - Right,true,false,30,60,Veneer
+FLT3066RDST,Single Pedestal Desk - Right,true,false,30,66,Laminate
+FLV3066RDST,Single Pedestal Desk - Right,true,false,30,66,Veneer
+FLT3072RDST,Single Pedestal Desk - Right,true,false,30,72,Laminate
+FLV3072RDST,Single Pedestal Desk - Right,true,false,30,72,Veneer
+FLT3078RDST,Single Pedestal Desk - Right,true,false,30,78,Laminate
+FLV3078RDST,Single Pedestal Desk - Right,true,false,30,78,Veneer
+FLT3084RDST,Single Pedestal Desk - Right,true,false,30,84,Laminate
+FLV3084RDST,Single Pedestal Desk - Right,true,false,30,84,Veneer
+FLT3672RDST,Single Pedestal Desk - Right,true,false,36,72,Laminate
+FLV3672RDST,Single Pedestal Desk - Right,true,false,36,72,Veneer
+FLT3678RDST,Single Pedestal Desk - Right,true,false,36,78,Laminate
+FLV3678RDST,Single Pedestal Desk - Right,true,false,36,78,Veneer
+FLT3684RDST,Single Pedestal Desk - Right,true,false,36,84,Laminate
+FLV3684RDST,Single Pedestal Desk - Right,true,false,36,84,Veneer
+FLT3060RDSTF,Single Pedestal Desk - Right,true,true,30,60,Laminate
+FLV3060RDSTF,Single Pedestal Desk - Right,true,true,30,60,Veneer
+FLT3066RDSTF,Single Pedestal Desk - Right,true,true,30,66,Laminate
+FLV3066RDSTF,Single Pedestal Desk - Right,true,true,30,66,Veneer
+FLT3072RDSTF,Single Pedestal Desk - Right,true,true,30,72,Laminate
+FLV3072RDSTF,Single Pedestal Desk - Right,true,true,30,72,Veneer
+FLT3078RDSTF,Single Pedestal Desk - Right,true,true,30,78,Laminate
+FLV3078RDSTF,Single Pedestal Desk - Right,true,true,30,78,Veneer
+FLT3084RDSTF,Single Pedestal Desk - Right,true,true,30,84,Laminate
+FLV3084RDSTF,Single Pedestal Desk - Right,true,true,30,84,Veneer
+FLT3660RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,36,60,Laminate
+FLV3660RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,36,60,Veneer
+FLT3666RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,36,66,Laminate
+FLV3666RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,36,66,Veneer
+FLT3672RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,36,72,Laminate
+FLV3672RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,36,72,Veneer
+FLT3678RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,36,78,Laminate
+FLV3678RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,36,78,Veneer
+FLT3684RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,36,84,Laminate
+FLV3684RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,36,84,Veneer
+FLT4272RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,42,72,Laminate
+FLV4272RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,42,72,Veneer
+FLT4278RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,42,78,Laminate
+FLV4278RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,42,78,Veneer
+FLT4284RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,42,84,Laminate
+FLV4284RED,Single Pedestal Desk - Right  (w/ 6" Overhang),false,false,42,84,Veneer
+FLT3060REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,30,60,Laminate
+FLV3060REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,30,60,Veneer
+FLT3066REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,30,66,Laminate
+FLV3066REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,30,66,Veneer
+FLT3072REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,30,72,Laminate
+FLV3072REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,30,72,Veneer
+FLT3672REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,36,72,Laminate
+FLV3672REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,36,72,Veneer
+FLT3678REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,36,78,Laminate
+FLV3678REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,36,78,Veneer
+FLT3684REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,36,84,Laminate
+FLV3684REDF,Single Pedestal Desk - Right  (w/ 6" Overhang),false,true,36,84,Veneer
+FLT3660REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,36,60,Laminate
+FLV3660REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,36,60,Veneer
+FLT3666REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,36,66,Laminate
+FLV3666REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,36,66,Veneer
+FLT3672REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,36,72,Laminate
+FLV3672REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,36,72,Veneer
+FLT3678REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,36,78,Laminate
+FLV3678REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,36,78,Veneer
+FLT3684REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,36,84,Laminate
+FLV3684REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,36,84,Veneer
+FLT4272REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,42,72,Laminate
+FLV4272REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,42,72,Veneer
+FLT4278REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,42,78,Laminate
+FLV4278REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,42,78,Veneer
+FLT4284REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,42,84,Laminate
+FLV4284REDST,Single Pedestal Desk - Right  (w/ 6" Overhang),true,false,42,84,Veneer

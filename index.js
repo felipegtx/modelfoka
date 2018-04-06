@@ -2,6 +2,7 @@ const sifScanner = require("sif-scanner");
 const fs = require('fs');
 const interpolate = require("interpolate");
 const domains = require("./domains.js");
+const extend = require("extend");
 
 
 module.exports = {
@@ -61,6 +62,9 @@ module.exports = {
             });
         });
 
+        let folderName = jsonUrl.substring(0, jsonUrl.lastIndexOf('/'));
+        exportCsv(checked, folderName + "/" + definition.name + ".csv");
+
         if(!definition.default && checked.length > 0) {
             definition.default = checked[0].basemodel;
             //update json
@@ -74,7 +78,8 @@ module.exports = {
             propTypes: definition.propTypes,
             count: checked.length,
             products: checked,
-            propIndex: definition.propIndex
+            propIndex: definition.propIndex,
+            domains: definition.domains
         };
         
         data = domains(data);
@@ -99,8 +104,28 @@ function replicateSuperModelInfo(data) {
 
 function expandDefinition(definition) {
     let matrix = makeMatrix(definition);
+    let domains = makeCompleteDomains(matrix);
+    definition.domains = domains;
     let all = allPossibleCases(matrix, null, []);
     return all;
+}
+
+function makeCompleteDomains(matrix) {
+    let domains = {};
+    matrix.forEach(row => {
+        row.forEach(cell => {
+            let propKey = cell.name;
+            let propValue = cell.text;
+
+            if(!domains[propKey]) domains[propKey] = [];
+            //TODO: can't really exclude the empty values like that, gotta see if the domains allow empty entries
+            if(propValue !== null && propValue !== "")
+                domains[propKey].push({
+                    value: propValue
+                });
+        });
+    });
+    return domains;
 }
 
 function makeMatrix(definition) {
@@ -204,4 +229,54 @@ function extractBasemodels(possibility, formatProp) {
 
     });
     return results;
+}
+
+function exportCsv(products, csvUrl) {
+    let flat = [];
+    products.forEach(product => {
+        let flatItem = {
+            basemodel: product.basemodel
+        }; 
+        flatItem = extend(flatItem, product.props);
+        flat.push(flatItem);
+    });
+    
+    let csv = toCsv(flat);
+
+    console.log(csvUrl);
+
+    fs.writeFile(csvUrl, csv, (err) => {});
+}
+
+function toCsv(objs) {
+    
+    if(!objs || objs.length == 0) return null;
+
+    let sample = objs[1];
+
+    let keys = Object.keys(sample);
+    let csv = "";
+    
+    //header
+    csv += csvLine(keys);
+
+    objs.forEach(obj => {
+        let row = [];
+        keys.forEach(key => {
+            row.push(obj[key]);
+        });
+        csv += csvLine(row);
+    });
+
+    return csv;
+}
+
+function csvLine(arr) {
+    let line = "";
+    arr.forEach(item => {
+        if(line) line += ",";
+        line += item;
+    });
+    line += "\r\n";
+    return line;
 }

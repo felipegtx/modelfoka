@@ -1,27 +1,56 @@
 {
-  "name" : "Flux Desk 1",
-  "description" : "Flux desks",
-  "icon" : "/cocolin.png",
-  "format" : "FL{Finish Type}{Depth}{Width}{Desk Type}{Wire Channel}{Flush Modesty}",
-  "options": { 
-    "Desk Type" : {
-      "BD" : "Bow Front Double Pedestal Desk",
-      "DD" : "Double Pedestal Desk",
-      "ED" : "Double Pedestal Desk (w/ 6\" Overhang)",
-      "LBD" : "Bow Front Single Pedestal Desk - Left",
-      "LD" : "Single Pedestal Desk - Left",
-      "LED" : "Single Pedestal Desk - Left  (w/ 6\" Overhang)",
-      "RBD" : "Bow Front Single Pedestal Desk - Right",
-      "RD" : "Single Pedestal Desk - Right",
-      "RED" : "Single Pedestal Desk - Right  (w/ 6\" Overhang)"
+    "name": "Flux Wall Mount Panel",
+    "description": "Flux Wall Mount Panel",
+    "icon": "/cocolin.png",
+    "format": [
+        "FLB{Height}{Width}{Model Code}",
+        "FL{Finish Type}{Height}{Width}{Model Code}"
+    ],
+    "options": {
+        "Model Code": {
+            "MBA": "Markerboard for Workwall Panel",
+            "WMMB": "Wall Mount Markerboard",
+            "WMMBG": "Wall Mount Glass Markerboard",
+            "WMP": "Wall Mount Panel",
+            "WPCDF": "Workwall Pnl w/Accessory File Shelf",
+            "WPCDT": "Workwall Pnl w/Accessory Shelf",
+            "WPFCD": "Workwall Pnl w/Accessory File Shelf",
+            "WPFF": "Workwall Panel w/File Shelf",
+            "WPMS": "Workwall Panel with Mini Shelf",
+            "WPTCD": "Workwall Pnl w/Accessory Shelf",
+            "WT": "Wall Mount Tack Panel",
+            "WTK": "Tackboard for Workwall Panel"
+        },
+        "Width": [
+            18,
+            24,
+            32,
+            41,
+            49
+        ],
+        "Height": [
+            13,
+            22,
+            23,
+            30,
+            31
+        ],
+        "Finish Type": {
+            "T": "Laminate",
+            "V": "Veneer"
+        }
     },
-    "Wire Channel": "ST",
-    "Flush Modesty": "F",
-    "Depth": [30,36,42],
-    "Width": [60,66,72,78,84],
-    "Finish Type": {
-        "T" : "Laminate",
-        "V" : "Veneer"
-    }
-  }
+    "propTypes": {
+        "Model Code": "text",
+        "Width": "number",
+        "Height": "number",
+        "Finish Type": "text"
+    },
+    "propIndex": [
+        "Model Code",
+        "Width",
+        "Height",
+        "Finish Type"
+    ],
+    "default": "FLB3024WMMB"
 }

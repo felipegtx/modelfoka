@@ -1,6 +1,7 @@
 const fs = require("fs");
 const async = require("async");
 const modelfoka = require("./index.js");
+const safeStringify = require('fast-safe-stringify');
 
 module.exports = function(root, callback) {
     catalogs(root, callback);
@@ -133,13 +134,13 @@ function processSupermodel(catalog, group, callback) {
                 summary.products.forEach(product => {
                     found.push(product.basemodel);
                 });
-                console.log("****************");
-                console.log(key);
-                console.log("found: " + summary.products.length);
-                console.log("expected: " + expectedCount);
-                console.log("diference: " + (summary.products.length - expectedCount));
-                console.log("extra: " + extra(expected, found));
-                console.log("missing: " + missing(expected, found));
+                // console.log("****************");
+                // console.log(key);
+                // console.log("found: " + summary.products.length);
+                // console.log("expected: " + expectedCount);
+                // console.log("diference: " + (summary.products.length - expectedCount));
+                // console.log("extra: " + extra(expected, found));
+                // console.log("missing: " + missing(expected, found));
 
                 if(summary.products.length == 0) {
                     console.log(":/ no products found for " + summary.name + "!!!!!!!!!!!!!");
@@ -148,7 +149,9 @@ function processSupermodel(catalog, group, callback) {
                     function(product, callback) {
                         let url = catalog.basemodelsFolder + '/' + product.basemodel + '.json';
                         // callback();
-                        fs.writeFile(url, JSON.stringify(product, null, 4), callback);
+                        
+                        fs.writeFile(url, JSON.stringify(product, null, 4),'utf8', callback);
+                        // fs.writeFile(url, safeStringify(product), callback);
                     }, 
                     function(err) {
                         if(err) console.log(err);

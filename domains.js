@@ -1,78 +1,70 @@
+const extend = require("extend");
+
+function copy(a) {
+    let b =  {};
+    Object.keys(a).forEach(key => {
+        b[key] = a[key];
+    });
+    return b;
+}
+
 module.exports = function(data) {
-    let propToModelIndex = makePropToModelIndex(data);
-    let modelToPropIndex = makeModelToPropIndex(data);
     data.products.forEach(product => {
-        addDomainsToProduct(product, propToModelIndex, modelToPropIndex);
+        let productDomains = {};
+        Object.keys(data.domains).forEach(propKey => {
+            data.domains[propKey].forEach(option => {
+                let desiredState = copy(product.props);
+                desiredState[propKey] = option.value;
+                let closestProduct = closest(data.products, desiredState, propKey);
+                if(closestProduct) {
+                    if(!productDomains[propKey]) productDomains[propKey] = [];
+                    productDomains[propKey].push({
+                        basemodel: closestProduct.basemodel,
+                        value: option.value
+                        // distance: closestProduct.distance
+                    });
+                }
+            });
+        });
+        product.domains = productDomains;
     });
     return data;
 }
 
-function makePropToModelIndex(data) {
-    let index = {};
-    data.products.forEach(element => {
-        Object.keys(element.props).forEach(key => {
-            let indexKey = makeIndexKey(key, element.props[key]);
-            if(!index[indexKey]) index[indexKey] = [];
-            index[indexKey].push(element.basemodel);
-        });
-    });
-    return index;
-}
 
-function makeModelToPropIndex(data) {
-    let index = {};
-    data.products.forEach(product => {
-        index[product.basemodel] = product.props;
-    });
-    return index;
-}
+function closest(products, desiredState, referenceProp) {
+    
+    let bestDistance = 999; //good enough?
+    let closest = null;
+    let closestChange = null;
 
-function makeIndexKey(propKey, propValue) {
-    return propKey + "|" + propValue.toString();
-}
-
-function addDomainsToProduct(product, propToModelIndex, modelToPropIndex) {
-    Object.keys(product.props).forEach(key => {
-        let models = filter(key, product.props, propToModelIndex);
-        let domain = [];
-        models.forEach(model => {
-            let props = modelToPropIndex[model];
-            domain.push({
-                basemodel: model,
-                value: props[key]
-            });
-        });
-        if(!product.domains) product.domains = {};
-        product.domains[key] = domain;
-    });
-}
-
-function filter(referenceKey, props, propToModelIndex) {
-    let results = null;
-    Object.keys(props).forEach(key => {
-        if(key != referenceKey) {
-            let filterKey = makeIndexKey(key, props[key]);
-            let subResults = propToModelIndex[filterKey];
-            if(!results) {
-                results = subResults;
-            } else {
-                results = intersection(results, subResults);
+    products.forEach(product => {
+        let distance = 0;
+        let change = {};
+        Object.keys(product.props).forEach(key => {
+            //make sure reference prop is equal on both sides
+            if(product.props[referenceProp] != desiredState[referenceProp]) {
+                distance += 999; //sabotage
             }
+            if(product.props[key] != desiredState[key]) {
+                distance ++;
+                change[key] = {
+                    desired: desiredState[key],
+                    found: product.props[key]
+                }
+            }
+        });
+        if(distance < bestDistance) {
+            bestDistance = distance;
+            closest = product;
+            closestChange = change;
         }
     });
-    return distinct(results);
-}
 
-function distinct(array) {
-    function onlyUnique(value, index, self) { 
-        return self.indexOf(value) === index;
-    }
-    var unique = array.filter( onlyUnique ); 
-    return unique;
-}
+    if(!closest) return null;
 
-function intersection(array1, array2) {
-    return array1.filter(function(n) {
-        return array2.includes(n);
-    });
+    return {
+        distance: bestDistance,
+        basemodel: closest.basemodel
+    };
 }
