@@ -20,8 +20,8 @@ module.exports = function(data) {
                     if(!productDomains[propKey]) productDomains[propKey] = [];
                     productDomains[propKey].push({
                         basemodel: closestProduct.basemodel,
-                        value: option.value
-                        // distance: closestProduct.distance
+                        value: option.value,
+                        distance: closestProduct.distance
                     });
                 }
             });
