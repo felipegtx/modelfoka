@@ -150,7 +150,8 @@ function processSupermodel(catalog, group, callback) {
                         let url = catalog.basemodelsFolder + '/' + product.basemodel + '.json';
                         // callback();
                         
-                        fs.writeFile(url, JSON.stringify(product, null, 4),'utf8', callback);
+                        fs.writeFileSync(url, JSON.stringify(product, null, 4),'utf8');
+                        callback();
                         // fs.writeFile(url, safeStringify(product), callback);
                     }, 
                     function(err) {
