@@ -2,7 +2,7 @@
   "name": "modelfoka",
   "version": "1.0.0",
   "description": "Catalog magic?",
-  "main": "index.js",
+  "main": "test-build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

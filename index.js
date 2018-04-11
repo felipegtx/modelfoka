@@ -252,21 +252,26 @@ function toCsv(objs) {
     
     if(!objs || objs.length == 0) return null;
 
-    let sample = objs[1];
-
-    let keys = Object.keys(sample);
     let csv = "";
-    
-    //header
-    csv += csvLine(keys);
+    try { 
+        let sample = objs[0];
 
-    objs.forEach(obj => {
-        let row = [];
-        keys.forEach(key => {
-            row.push(obj[key]);
+        let keys = Object.keys(sample);
+        
+        //header
+        csv += csvLine(keys);
+    
+        objs.forEach(obj => {
+            let row = [];
+            keys.forEach(key => {
+                row.push(obj[key]);
+            });
+            csv += csvLine(row);
         });
-        csv += csvLine(row);
-    });
+    } catch ( e) { 
+        console.info(e);
+    }
+
 
     return csv;
 }
